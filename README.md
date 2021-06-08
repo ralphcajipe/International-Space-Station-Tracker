@@ -46,7 +46,7 @@ Take the provided codebase and tinker with it to make it accessible for space en
 
 * [International Space Station | Wikipedia](https://en.wikipedia.org/wiki/International_Space_Station)
 * [International Space Station | NASA](https://www.nasa.gov/mission_pages/station/main/index.html)
-* [View on Maps](google.com/maps/space/iss)
+* [View on Maps](https://www.google.com/maps/space/iss)
 
 - - -
 MIT License
