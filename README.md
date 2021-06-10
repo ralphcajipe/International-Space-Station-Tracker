@@ -39,7 +39,7 @@ You will appreciate the project if you are able to:
 
 ## Homework: Tinker with my project 🤗🛠
 
-Take the provided codebase and tinker with it to make it accessible for space enthusiasts. Don't forget the cardinal rule when working with someone elses code:
+Take the provided notebook and tinker with it to make it accessible for space enthusiasts. Don't forget the cardinal rule when working with someone elses code:
 "Always leave the code you are editing a little cleaner than you found it".
 
 ## Helpful Links
