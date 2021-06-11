@@ -1,4 +1,8 @@
 # International-Space-Station-Tracker
+Author: Ralph Cajipe <br>
+Date created: 06/07/2021 <br>
+Last modified: 06/11/2021 <br>
+Description: Track the International Space Station using Open Notify
 
 ## Overview
 The International Space Station moves at close to 28,000 km/h so its location changes really fast!
